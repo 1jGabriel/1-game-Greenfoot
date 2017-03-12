@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=Enemy
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ NaveMae\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Enemy()
+comment10.params=
+comment10.target=void\ receiveDamage()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ detectarFim()
+comment4.params=Escudo
+comment4.target=void\ setEscudo(int)
+comment5.params=Dano
+comment5.target=void\ setDano(int)
+comment6.params=
+comment6.target=int\ getEscudo()
+comment7.params=_dano
+comment7.target=void\ causaDano(int)
+comment8.params=
+comment8.target=void\ checarEscudo()
+comment9.params=
+comment9.target=void\ tiro()
+numComments=11
